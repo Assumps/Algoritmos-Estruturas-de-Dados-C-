@@ -8,14 +8,14 @@
 ---
 
 ## 🟦 Semana 1 — Complexidade de Algoritmos
-- [ ] Entender o que é Big O
-- [ ] Diferença entre Big O, Big Θ e Big Ω
-- [ ] Analisar loops simples
-- [ ] Analisar loops aninhados
-- [ ] Analisar custo de chamadas de métodos
-- [ ] Analisar algoritmos recursivos
-- [ ] Resolver exercícios de análise de complexidade
-- [ ] Otimizar um algoritmo O(n²) para O(n)
+- [x] Entender o que é Big O
+- [x] Diferença entre Big O, Big Θ e Big Ω
+- [x] Analisar loops simples
+- [x] Analisar loops aninhados
+- [x] Analisar custo de chamadas de métodos
+- [x] Analisar algoritmos recursivos
+- [x] Resolver exercícios de análise de complexidade
+- [x] Otimizar um algoritmo O(n²) para O(n)
 
 ## 🟦 Semana 2 — Arrays, Lists, Sets e Dictionaries
 - [ ] Arrays em C#
